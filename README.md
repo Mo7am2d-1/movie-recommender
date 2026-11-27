@@ -1,6 +1,6 @@
 # Movie Recommender (MovieLens 100k)
 
-A practice project from my machine learning course. It recommends movies
+Practice project built with AI assistance on a public dataset. It recommends movies
 using item-item collaborative filtering: movies are similar if users
 rated them similarly. Includes a Streamlit web app with similar-movie
 lookup and per-user top-10 recommendations.
